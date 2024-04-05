@@ -6,12 +6,12 @@ body, h1, h2, h3, h4, p, ul, ol, li {
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-color: rgb(255, 255, 255);
+     background-color: rgb(209, 203, 247);
     color: #333;
 }
 
 header {
-    background-color: #4b0f7c;
+    background-color: #931597;
     color: #fff;
     padding: 20px;
     text-align: center;
@@ -76,7 +76,7 @@ ol, ul {
 }
 
 footer {
-    background-color: #001aff;
+    background-color: #bc50e7;
     color: #fff;
     text-align: center;
     padding: 10px 0;
@@ -88,7 +88,7 @@ footer p {
 
 .btn {
     display: inline-block;
-    background-color: #001aff;
+     background-color: #a73faa;
     color: #fff;
     padding: 10px 20px;
     border-radius: 5px;
